@@ -11,7 +11,7 @@
 
 ---
 
-###⚡️ Stats
+### ⚡️ Stats
 
 <div align=center>
   <img width=390 src="https://github-readme-stats.vercel.app/api?username=xfnx-17&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en&hide_border=true" alt="GitHub Stats" />
@@ -24,7 +24,7 @@
 <div align="center" style="margin: 0 auto;">
   <img src="https://komarev.com/ghpvc/?username=xfnx-17&label=Profile+Views&color=9B59B6&style=flat&labelColor=00000000" alt="Profile Views" style="display: block; margin: 0 auto;" />
 </div>
-###🐍 My Contributions
+### 🐍 My Contributions
 
 <div align="center">
   <picture>
