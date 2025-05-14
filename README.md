@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9B59B6&background=FFFFFF00&width=435&lines=Hello+👋,+I'm+xfnx-17;Python+Developer;Computer+Science+Student" alt="Typing Intro" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9B59B6&background=FFFFFF00&width=435&lines=Hello+👋,+I'm+xfnx-17;Python+Developer;Computer+Science+Student" alt="Typing Intro" />
 </div>
 
 ---
 
 ### 🛠️ Tech Stack
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat&logo=visual-studio-code&logoColor=white" />
+  <img src="https://skillicons.dev/icons?i=python,cpp,java" alt="Tech Stack" />
 </p>
 
 ---
