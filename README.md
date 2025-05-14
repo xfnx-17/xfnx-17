@@ -24,3 +24,14 @@
 <div align="center" style="margin: 0 auto;">
   <img src="https://komarev.com/ghpvc/?username=xfnx-17&label=Profile+Views&color=9B59B6&style=flat&labelColor=00000000" alt="Profile Views" style="display: block; margin: 0 auto;" />
 </div>
+## 🐍 My Contributions
+
+<div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/xfnx-17/xfnx-17/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/xfnx-17/xfnx-17/output/github-contribution-grid-snake.svg" />
+    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/xfnx-17/xfnx-17/output/github-contribution-grid-snake.svg" width="100%" />
+  </picture>
+</div>
+
+<hr>
