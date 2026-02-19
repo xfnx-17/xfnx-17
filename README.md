@@ -1,6 +1,13 @@
-<div align="center"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9B59B6&background=FFFFFF00&width=435&lines=Hello+👋,+I'm+xfnx;Python+Developer;Computer+Science+Student" alt="Typing SVG" /></div>
+<div align="center">
 
----
+  <br/><br/>
+
+  <!-- Typing Animation -->
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=3000&pause=500&color=9B59B6&background=FFFFFF00&width=435&lines=Hello+👋,+I'm+xfnx;Python+Developer;Computer+Science+Student"
+       alt="Typing SVG" />
+
+</div>
+
 
 ### 🛠️ Tech Stack
 <p align="center"><img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js" alt="Tech Stack" /></p>
