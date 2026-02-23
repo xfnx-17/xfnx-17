@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9B59B6&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+xfnx+👋;Python+Developer;Security+%26+AI+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=500&color=9B59B6&background=FFFFFF00&center=true&vCenter=true&width=600&lines=Hey+there!+I'm+xfnx+👋;Python+Developer;Security+%26+AI+Enthusiast;Computer+Science+Student" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -45,7 +45,7 @@ class xfnx:
       <h3 align="center">🔍 DorkHunter</h3>
       <p align="center">
         <a href="https://github.com/xfnx-17/DorkHunter">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfnx-17&repo=DorkHunter&theme=dark&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="DorkHunter"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfnx-17&repo=DorkHunter&theme=dark&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="DorkHunter"/>
         </a>
       </p>
       <p align="center">
@@ -61,7 +61,7 @@ class xfnx:
       <h3 align="center">🚗 Deep Learning ANPR</h3>
       <p align="center">
         <a href="https://github.com/xfnx-17/DEEP-LEARNING-ANPR-FOR-AUTOMATED-ACCESS-CONTROL-IN-A-UNIVERSITY-CAMPUS-ENVIRONMENT">
-          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfnx-17&repo=DEEP-LEARNING-ANPR-FOR-AUTOMATED-ACCESS-CONTROL-IN-A-UNIVERSITY-CAMPUS-ENVIRONMENT&theme=dark&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="ANPR"/>
+          <img src="https://github-readme-stats.vercel.app/api/pin/?username=xfnx-17&repo=DEEP-LEARNING-ANPR-FOR-AUTOMATED-ACCESS-CONTROL-IN-A-UNIVERSITY-CAMPUS-ENVIRONMENT&theme=dark&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff&bg_color=0d1117&hide_border=true" alt="ANPR"/>
         </a>
       </p>
       <p align="center">
@@ -82,11 +82,11 @@ class xfnx:
 
 <div align="center">
   <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=xfnx-17&theme=dark&hide_border=true&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" alt="GitHub Streak" />
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=xfnx-17&show_icons=true&theme=dark&hide_border=true&title_color=9B59B6&icon_color=9B59B6&include_all_commits=true&count_private=true" alt="GitHub Stats" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=xfnx-17&show_icons=true&theme=dark&hide_border=true&title_color=9B59B6&icon_color=9B59B6&text_color=ffffff&bg_color=0d1117" alt="GitHub Stats" />
 </div>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfnx-17&layout=compact&theme=dark&hide_border=true&title_color=9B59B6" alt="Top Languages" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfnx-17&layout=compact&theme=dark&hide_border=true&title_color=9B59B6&text_color=ffffff&bg_color=0d1117" alt="Top Languages" />
 </div>
 
 ---
