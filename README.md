@@ -53,9 +53,7 @@ class xfnx:
     <td width="50%">
       <h3 align="center">🔍 DorkHunter</h3>
       <p align="center">
-        <a href="https://github.com/xfnx-17/DorkHunter">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=xfnx-17&repo=DorkHunter&theme=dark&title_color=9B59B6&icon_color=9B59B6&hide_border=true" alt="DorkHunter" />
-        </a>
+        <a href="https://github.com/xfnx-17/DorkHunter">        </a>
       </p>
       <p align="center">
         A specialized <strong>security reconnaissance tool</strong> that uses Google dorks via Serper.dev to discover potentially vulnerable URLs, with automated <strong>time-based & boolean-blind SQL injection</strong> testing built in.
@@ -70,7 +68,6 @@ class xfnx:
       <h3 align="center">🚗 Deep Learning ANPR</h3>
       <p align="center">
         <a href="https://github.com/xfnx-17/DEEP-LEARNING-ANPR-FOR-AUTOMATED-ACCESS-CONTROL-IN-A-UNIVERSITY-CAMPUS-ENVIRONMENT">
-          <img src="https://github-readme-stats.vercel.app/api/pin?username=xfnx-17&repo=DEEP-LEARNING-ANPR-FOR-AUTOMATED-ACCESS-CONTROL-IN-A-UNIVERSITY-CAMPUS-ENVIRONMENT&theme=dark&title_color=9B59B6&icon_color=9B59B6&hide_border=true" alt="ANPR" />
         </a>
       </p>
       <p align="center">
@@ -91,11 +88,6 @@ class xfnx:
 
 <div align="center">
   <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=xfnx-17&theme=dark&hide_border=true&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" alt="GitHub Streak" />
-  <img width="400" src="https://github-readme-stats.vercel.app/api?username=xfnx-17&show_icons=true&theme=dark&hide_border=true&title_color=9B59B6&icon_color=9B59B6" alt="GitHub Stats" />
-</div>
-
-<div align="center">
-  <img width="400" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfnx-17&layout=compact&theme=dark&hide_border=true&title_color=9B59B6" alt="Top Languages" />
 </div>
 
 ---
