@@ -18,8 +18,6 @@
 
 ```python
 class xfnx:
-    name       = "Muhammad Afeef Na'eem"
-    location   = "Kedah, Malaysia 🇲🇾"
     education  = "Computer Science Student"
     focus      = ["Cybersecurity", "AI / Deep Learning", "Automation"]
     languages  = ["Python", "C++", "Java", "JavaScript"]
