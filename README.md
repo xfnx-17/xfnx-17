@@ -29,8 +29,19 @@ class xfnx:
 
 ## 🛠️ Tech Stack
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,git,github,vscode,linux" alt="Tech Stack" />
+### 🚀 Languages & Frameworks
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,django,bash" alt="Languages & Frameworks" />
+</p>
+
+### 🤖 AI / Deep Learning / Data
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,mysql" alt="AI & Data" />
+</p>
+
+### 🔧 Tools & Environment
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,kali,windows" alt="Tools & Environment" />
 </p>
 
 ---
