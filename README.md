@@ -52,7 +52,6 @@ class xfnx:
     <td width="50%">
       <h3 align="center">🔍 DorkHunter</h3>
       <p align="center">
-        <a href="https://github.com/xfnx-17/DorkHunter">        </a>
       </p>
       <p align="center">
         A specialized <strong>security reconnaissance tool</strong> that uses Google dorks via Serper.dev to discover potentially vulnerable URLs, with automated <strong>time-based & boolean-blind SQL injection</strong> testing built in.
@@ -66,7 +65,6 @@ class xfnx:
     <td width="50%">
       <h3 align="center">🚗 Deep Learning ANPR</h3>
       <p align="center">
-        <a href="https://github.com/xfnx-17/DEEP-LEARNING-ANPR-FOR-AUTOMATED-ACCESS-CONTROL-IN-A-UNIVERSITY-CAMPUS-ENVIRONMENT">
         </a>
       </p>
       <p align="center">
