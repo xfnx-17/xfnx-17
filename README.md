@@ -81,14 +81,6 @@ class xfnx:
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  <img width="400" src="https://github-readme-streak-stats.herokuapp.com/?user=xfnx-17&theme=dark&hide_border=true&ring=9B59B6&fire=9B59B6&currStreakLabel=9B59B6" alt="GitHub Streak" />
-</div>
-
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
