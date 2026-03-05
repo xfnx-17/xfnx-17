@@ -22,7 +22,6 @@ class xfnx:
     focus      = ["Cybersecurity", "AI / Deep Learning", "Automation"]
     languages  = ["Python", "C++", "Java", "JavaScript"]
     hobbies    = ["CTF Challenges", "Building Security Tools", "ML Research"]
-    motto      = "Build things. Break things. Learn everything."
 ```
 
 ---
