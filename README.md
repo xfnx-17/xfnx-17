@@ -48,7 +48,8 @@ class xfnx:
 ## 📊 Most Used Languages
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=xfnx-17&hide_border=true&bg_color=FFFFFF00&title_color=9B59B6&text_color=9B59B6&icon_color=9B59B6&langs_count=10&hide=html,css" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=xfnx-17&theme=tokyonight&exclude=html,css" alt="Languages by Repos" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=xfnx-17&theme=tokyonight&exclude=html,css" alt="Most Commit Languages" />
 </div>
 
 ---
