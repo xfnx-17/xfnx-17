@@ -58,6 +58,21 @@ class xfnx:
 
 <table>
   <tr>
+    <td colspan="2">
+      <h3 align="center">🐺 <a href="https://github.com/xfnx-17/Wirewolf">Wirewolf</a></h3>
+      <p align="center">
+        A high-performance, local <strong>AI-driven network threat detection engine</strong> in C++. It sniffs packets, reassembles TCP flows, and blends a statistical pre-filter, a clean-room <strong>Markov behavioral C2 detector</strong>, and a local <strong>Llama 3.1</strong> LLM to classify threats into structured JSON — with CLI, Dear ImGui, and Flutter dashboards.
+      </p>
+      <p align="center">
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white"/>
+        <img src="https://img.shields.io/badge/CUDA-76B900?style=flat-square&logo=nvidia&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Llama%203.1-FF6F00?style=flat-square&logo=meta&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=flutter&logoColor=white"/>
+        <img src="https://img.shields.io/badge/Security-red?style=flat-square"/>
+      </p>
+    </td>
+  </tr>
+  <tr>
     <td width="50%">
       <h3 align="center">🔍 DorkHunter</h3>
       <p align="center">
